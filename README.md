@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Victoria
-- 🔭 I’m currently working on completing a Data Analyst Nanodegree on Udacity and growing my skills as a Product Manager.
-- 👯 I’m looking to collaborate on projects/products that are data-driven and user-centered
-- 📫 How to reach me: veffiwatt@gmail.com
+- 👋 Hi, I'm Victoria. Thank you for taking the time to view my GitHub profile 😄
+- 🔭 I’m currently growing my skills as a Product Manager through building an app with a team.
+- 👯 I’m looking to collaborate on projects/products that are data-driven and user-centered, and I'm open to volunteer, internships, and job opportunities.
+- 📫 You can reach me at: veffiwatt@gmail.com
